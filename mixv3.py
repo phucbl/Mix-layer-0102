@@ -7,7 +7,7 @@ f2.close
 f3 = open("C:\\Users\\ADMIN\\Desktop\\mix1.gcode","w")
 f3.write("")
 f3 = open("C:\\Users\\ADMIN\\Desktop\\mix1.gcode","a")
-axz=0
+maxz=0
 stringreplace=""
 eValue11=0.00001
 eValue21=eValue11
